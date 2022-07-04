@@ -1,12 +1,12 @@
 {
   "sensorData": [
     {
-      "sourceDate": "333xxxx",
+      "sourceDate": "10",
       "analog_1": "32",
       "analog_2": "60.34"
     },
     {
-      "sourceDate": "333xxxx",
+      "sourceDate": "20",
       "analog_1": "45",
       "analog_2": "72.004"
     }
